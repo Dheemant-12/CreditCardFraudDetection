@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+This the link to the datatset , the dataset contains over 2L+ entries so too large to share, Simply copy and paste the link in your browser it will direct you to Kaggle where you can download it 
